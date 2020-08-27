@@ -23,7 +23,7 @@ I'm Cláudio Henrique, future fullstack developer from **Rio Pomba, Minas Gerais
 
 - :massage: Hobbies: Read books,  play some old-school games and listen to podcasts;
 
-- :computer: Technologies: C++ | Java | HTML5 | CSS3 | JS | Git | React;
+- :computer: Studying: HTML5 | CSS3 | JS | Git | React;
 
 - ⚡ Currently I have dedicated myself to the most advanced studies of JavaScript and its frameworks;
 

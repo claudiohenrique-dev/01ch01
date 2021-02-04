@@ -16,17 +16,14 @@ Here are some ideas to get you started:
 
 # Hello, friend 👋
 
-I'm Cláudio Henrique, future fullstack developer from **Rio Pomba, Minas Gerais (🇧🇷).** I'm currently studying Computer Science 👨‍💻 at Federal Institute of Education Science and Technology of Southeast Minas Gerais ([IFSEMG](https://www.ifsudestemg.edu.br/riopomba)) and my goal is use my knowledge of technology to help promote social inclusion :v:.
+I'm Cláudio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (🇧🇷).** I'm currently studying Computer Science at Federal Institute of Education Science and Technology of Southeast Minas Gerais ([IFSEMG](https://www.ifsudestemg.edu.br/riopomba)) and my goal is to make technology more democratic for everyone.
 
 
-- 😊Pronouns: [He/Him](https://www.mypronouns.org/he-him);
+- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him);
 
 - :massage: Hobbies: Read books,  play some old-school games and listen to podcasts;
 
-- :computer: Studying: HTML | CSS | JS | Git | React;
-
-- ⚡ Currently I have dedicated myself to the most advanced studies of JavaScript and its frameworks;
-
+- :computer: Studying: HTML | CSS | JS | Git | ReactJS;
 
 
 Reach me out 👇

@@ -13,24 +13,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # Hello, friend 👋
 
 I'm Cláudio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (🇧🇷).** I'm currently studying Computer Science at Federal Institute of Education Science and Technology of Southeast Minas Gerais ([IFSEMG](https://www.ifsudestemg.edu.br/riopomba)) and my goal is to make technology more democratic for everyone.
 
-
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him);
 
-- :massage: Hobbies: Read books,  play some old-school games and listen to podcasts;
+- 🎮 Hobbies: Read books, play some old-school games and listen to podcasts;
 
-- :computer: Studying: HTML | CSS | JS | Git | ReactJS | React Native | NodeJS;
+## Technologies
 
+### I know it
 
-Reach me out 👇
+<img src="https://xesque.rocketseat.dev/platform/tech/html5.svg" alt="HTML 5" title="HTML 5"/>
+<img src="https://xesque.rocketseat.dev/platform/tech/css3.svg" alt="CSS 3" title="CSS 3"/>
+<img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" alt="JavaScript" title="JavaScript"/>
+<img src="https://xesque.rocketseat.dev/platform/tech/git.svg" alt="Git" title="Git"/>
 
-[![Gmail Badge](https://img.shields.io/badge/-00claudio.henrique@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:00claudio.henrique@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-01ch01-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/01ch01/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@claudio_henrique-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/claudio_henrique "Contact on Telegram")
+### I'm studying
+
+<img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"  alt="ReactJS" title="ReactJS"/>
+<img src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" alt="React Native" title="React Native"/>
+<img src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node.js" title="Node.js"/>
+
+### I'm curious about
+
+<img src="https://xesque.rocketseat.dev/platform/tech/angularjs.svg" alt="Angular JS" title="Angular JS"/>
+
+<img src="https://xesque.rocketseat.dev/platform/tech/mysql.svg" alt="My SQL" title="My SQL"/>
+
+## Reach me out 📫
+
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:00claudio.henrique@gmail.com 'Connect via Email')
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/01ch01/ 'Connect on LinkedIn')
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/claudio_henrique 'Contact on Telegram')
 
 Feel free to explore the projects and collaborate with the repositories available here.
 

@@ -23,7 +23,7 @@ I'm Cláudio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (�
 
 - :massage: Hobbies: Read books,  play some old-school games and listen to podcasts;
 
-- :computer: Studying: HTML | CSS | JS | Git | ReactJS;
+- :computer: Studying: HTML | CSS | JS | Git | ReactJS | React Native | NodeJS;
 
 
 Reach me out 👇

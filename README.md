@@ -25,6 +25,21 @@ I'm ClÃ¡udio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (ð
 
 ### I know it
 
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML 5" title="HTML 5" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS 3" title="CSS 3" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
+
+
+
+
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS" />
+<img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
+<img src="https://img.icons8.com/color/48/000000/android-os.png" title="Android Development" />
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreeSQL" />
+<img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" />
+
 <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/html5.svg" alt="HTML 5" title="HTML 5"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML 5" />
 <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" alt="CSS 3" title="CSS 3"/>

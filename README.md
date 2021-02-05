@@ -25,11 +25,11 @@ I'm ClÃ¡udio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (ð
 
 ### I know it
 
-<img src="https://xesque.rocketseat.dev/platform/tech/html5.svg" alt="HTML 5" title="HTML 5"/><img src="https://xesque.rocketseat.dev/platform/tech/css3.svg" alt="CSS 3" title="CSS 3"/><img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" alt="JavaScript" title="JavaScript"/><img src="https://xesque.rocketseat.dev/platform/tech/git.svg" alt="Git" title="Git"/>
+<img style="padding:5px" src="https://xesque.rocketseat.dev/platform/tech/html5.svg" alt="HTML 5" title="HTML 5"/><img style="padding:5px" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" alt="CSS 3" title="CSS 3"/><img style="padding:5px" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" alt="JavaScript" title="JavaScript"/><img style="padding:5px" src="https://xesque.rocketseat.dev/platform/tech/git.svg" alt="Git" title="Git"/>
 
 ### I'm studying
 
-<img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"  alt="ReactJS" title="ReactJS"/><img src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" alt="React Native" title="React Native"/><img src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node.js" title="Node.js"/>
+<img style="padding:5px" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"  alt="ReactJS" title="ReactJS"/><img src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" alt="React Native" title="React Native"/><img src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node.js" title="Node.js"/>
 
 
 ### I'm curious about

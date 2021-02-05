@@ -43,7 +43,10 @@ I'm Cláudio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (�
 
 ### I'm curious about
 
-<img src="https://xesque.rocketseat.dev/platform/tech/mysql.svg" alt="My SQL" title="My SQL"/><img src="https://xesque.rocketseat.dev/platform/tech/angularjs.svg" alt="Angular JS" title="Angular JS"/>
+<div align="left">
+  <img src="https://xesque.rocketseat.dev/platform/tech/mysql.svg" alt="My SQL" title="My SQL"/>
+  <img src="https://xesque.rocketseat.dev/platform/tech/angularjs.svg" alt="Angular JS" title="Angular JS"/>
+<div/>
 
 ## Reach me out 📫
 

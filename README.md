@@ -26,10 +26,6 @@ I'm ClÃ¡udio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (ð
 ### I know it
 
 <div align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML 5" title="HTML 5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS 3" title="CSS 3" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
   <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/html5.svg" alt="HTML 5" title="HTML 5"/>
   <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" alt="CSS 3" title="CSS 3"/>
   <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" alt="JavaScript" title="JavaScript"/>

@@ -38,6 +38,7 @@ I'm ClÃ¡udio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (ð
   <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="ReactJS" title="ReactJS"/>
   <img src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" alt="React Native" title="React Native"/>
   <img src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node.js" title="Node.js"/>
+  <img src="https://xesque.rocketseat.dev/platform/tech/vuejs.svg" alt="Vue.js" title="Vue.js"/>
 <div/>
 
 

@@ -1,5 +1,5 @@
 <!--
-**01ch01/01ch01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**claudiohenrique-dev/claudiohenrique-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, friend 👋
 
-I'm Cláudio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (🇧🇷).** I'm currently studying Computer Science at Federal Institute of Education Science and Technology of Southeast Minas Gerais ([IFSEMG](https://www.ifsudestemg.edu.br/riopomba)) and my goal is to make technology more democratic for everyone.
-
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him);
+I'm Cláudio Henrique, front-end developer jr from **Rio Pomba, Minas Gerais (🇧🇷).** I'm currently studying Computer Science at Federal Institute of Education Science and Technology of Southeast Minas Gerais ([IFSEMG](https://www.ifsudestemg.edu.br/riopomba)) and my goal is to make technology more democratic for everyone.
 
 - 🎮 Hobbies: Read books, play some old-school games and listen to podcasts;
 
@@ -42,22 +40,15 @@ I'm Cláudio Henrique, Full Stack Developer Jr from **Rio Pomba, Minas Gerais (�
 <div/>
 
 
-### I'm curious about
-
-<div align="left">
-  <img src="https://xesque.rocketseat.dev/platform/tech/mysql.svg" alt="My SQL" title="My SQL"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/angularjs.svg" alt="Angular JS" title="Angular JS"/>
-<div/>
-
 ## Reach me out 📫
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:00claudio.henrique@gmail.com 'Connect via Email')
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/01ch01/ 'Connect on LinkedIn')
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/claudio_henrique 'Contact on Telegram')
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudiohenrique-dev/ 'Connect on LinkedIn')
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/claudiohenrique_dev 'Contact on Telegram')
 
 Feel free to explore the projects and collaborate with the repositories available here.
 
-![Cláudio's github stats](https://github-readme-stats.vercel.app/api?username=01ch01&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01ch01&layout=compact&theme=vision-friendly-dark)
+![Cláudio's github stats](https://github-readme-stats.vercel.app/api?username=claudiohenrique-dev&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenrique-dev&layout=compact&theme=vision-friendly-dark)
 
 ⚠️ _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_

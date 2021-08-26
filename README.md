@@ -13,11 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, friend 👋
+# Hi there! 👋
 
-I'm Cláudio Henrique, front-end developer jr from **Rio Pomba, Minas Gerais (🇧🇷).** I'm currently studying Computer Science at Federal Institute of Education Science and Technology of Southeast Minas Gerais ([IFSEMG](https://www.ifsudestemg.edu.br/riopomba)) and my goal is to make technology more democratic for everyone.
+First of all, I wanna thank you for coming here and, since you arrived, I invite you to know a little more about me! 😊
 
-- 🎮 Hobbies: Read books, play some old-school games and listen to podcasts;
+## 💜  Who is Cláudio as a person?
+Someone organized, detail-oriented, concerned with producing quality work and often spares no effort so that the result is the best possible. I believe that technology is a universal good that must be accessible to all people so they can enjoy it regardless anyway.
+
+## 💻  Who is Cláudio as a professional?
+Someone who loves to solve challenges and learn new things! I'm currently a front-end developer at a tech startup whose main product is a food delivery platform. My current stack is JavaScript (ReactJS, React Native and Vue.js), but I have already implemented some stuff at college in C++, Java and Python.
 
 ## Technologies
 
@@ -51,4 +55,4 @@ Feel free to explore the projects and collaborate with the repositories availabl
 ![Cláudio's github stats](https://github-readme-stats.vercel.app/api?username=claudiohenrique-dev&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenrique-dev&layout=compact&theme=vision-friendly-dark)
 
-⚠️ _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+⚠️ _NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages i have the most code on GitHub_

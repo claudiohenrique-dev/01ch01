@@ -21,7 +21,8 @@ First of all, I wanna thank you for coming here and, since you arrived, I invite
 Someone organized, detail-oriented, concerned with producing quality work and often spares no effort so that the result is the best possible. I believe that technology is a universal good that must be accessible to all people so they can enjoy it regardless anyway.
 
 ## 💻  Who is Cláudio as a professional?
-Someone who loves to solve challenges and learn new things! I'm currently a front-end developer at a tech startup whose main product is a food delivery platform. My current stack is JavaScript (ReactJS, React Native and Vue.js), but I have already implemented some stuff at college in C++, Java and Python.
+
+Someone who loves to solve challenges and learn new things! I'm currently a React Native developer at an HR Tech whose product is an integrated platform for managing people and organizations. My current stack is JavaScript (ReactJS, React Native and Vue.js), but I have already implemented some stuff at college in C++, Java and Python.
 
 ## Technologies
 
@@ -30,17 +31,18 @@ Someone who loves to solve challenges and learn new things! I'm currently a fron
 <div align="left">
   <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/html5.svg" alt="HTML 5" title="HTML 5"/>
   <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" alt="CSS 3" title="CSS 3"/>
-  <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" alt="JavaScript" title="JavaScript"/>
   <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/git.svg" alt="Git" title="Git"/>
+  <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" alt="JavaScript" title="JavaScript"/>
+  <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="ReactJS" title="ReactJS"/>
+  <img src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" alt="React Native" title="React Native"/>
 <div/>
 
 ### I'm studying
 
 <div align="left">
-  <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="ReactJS" title="ReactJS"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" alt="React Native" title="React Native"/>
   <img src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node.js" title="Node.js"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/vuejs.svg" alt="Vue.js" title="Vue.js"/>
+  <img src="https://xesque.rocketseat.dev/platform/tech/c-sharp.svg" alt="C#" title="C#"/>
+  <img src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" alt="Next.js" title="Next.js"/>
 <div/>
 
 

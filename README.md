@@ -1,60 +1,53 @@
-<!--
-**claudiohenrique-dev/claudiohenrique-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Cláudio Henrique</h1>
+<h3 align="center">A passionate mobile developer from Rio Pomba, Brazil</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiohenrique-dev&label=Profile%20views&color=0e75b6&style=flat" alt="claudiohenrique-dev" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/claudioh_dev" target="blank"><img src="https://img.shields.io/twitter/follow/claudioh_dev?logo=twitter&style=for-the-badge" alt="claudioh_dev" /></a> </p>
 
-# Hi there! 👋
+- 🔭 I’m currently working at [**Mereo**](https://mereo.com)
 
-First of all, I wanna thank you for coming here and, since you arrived, I invite you to know a little more about me! 😊
+- 🌱 I’m currently learning **React Native, Node.js and .NET**
 
-## 💜  Who is Cláudio as a person?
-Someone organized, detail-oriented, concerned with producing quality work and often spares no effort so that the result is the best possible. I believe that technology is a universal good that must be accessible to all people so they can enjoy it regardless anyway.
+- 👨‍💻 All of my projects are available on [**my GitHub profile**](https://github.com/claudiohenrique-dev)
 
-## 💻  Who is Cláudio as a professional?
+- 💬 Ask me about **React and JavaScript**
 
-Someone who loves to solve challenges and learn new things! I'm currently a React Native developer at an HR Tech whose product is an integrated platform for managing people and organizations. My current stack is JavaScript (ReactJS, React Native and Vue.js), but I have already implemented some stuff at college in C++, Java and Python.
+- 📫 You can mail me at **00claudio.henrique@gmail.com**
 
-## Technologies
+- 📄 Know about my experiences on [**my personal website**](https://claudiohenrique.vercel.app)
 
-### I know it
-
-<div align="left">
-  <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/html5.svg" alt="HTML 5" title="HTML 5"/>
-  <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" alt="CSS 3" title="CSS 3"/>
-  <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/git.svg" alt="Git" title="Git"/>
-  <img style="padding:5px;" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" alt="JavaScript" title="JavaScript"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="ReactJS" title="ReactJS"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" alt="React Native" title="React Native"/>
-<div/>
-
-### I'm studying
-
-<div align="left">
-  <img src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node.js" title="Node.js"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/c-sharp.svg" alt="C#" title="C#"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" alt="Next.js" title="Next.js"/>
-<div/>
+- ⚡ Fun fact: **When i was a child i tried to build a time machine 🤓**
 
 
-## Reach me out 📫
+---
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:00claudio.henrique@gmail.com 'Connect via Email')
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudiohenrique-dev/ 'Connect on LinkedIn')
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/claudiohenrique_dev 'Contact on Telegram')
+<h3 align="center">Languages and Tools:</h3>
+<br>
 
-Feel free to explore the projects and collaborate with the repositories available here.
+<p align="center">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+</p>
 
-![Cláudio's github stats](https://github-readme-stats.vercel.app/api?username=claudiohenrique-dev&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenrique-dev&layout=compact&theme=vision-friendly-dark)
+<br>
+<h3 align="center">Connect with me:</h3>
+<br>
 
-⚠️ _NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages i have the most code on GitHub_
+<p align="center">
+<a href="https://twitter.com/claudioh_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="claudioh_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/claudiohenrique-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudiohenrique-dev" height="30" width="40" /></a>
+<a href="https://t.me/claudiohenrique_dev" target="blank"><img align="center" src="https://telegram.org/img/t_logo.svg" alt="claudiohenrique_dev" height="30" width="40" /></a>
+</p>

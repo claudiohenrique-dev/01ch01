@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiohenrique-dev&label=Profile%20views&color=0e75b6&style=flat" alt="claudiohenrique-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/claudioh_dev" target="blank"><img src="https://img.shields.io/twitter/follow/claudioh_dev?logo=twitter&style=for-the-badge" alt="claudioh_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cloud_henrique" target="blank"><img src="https://img.shields.io/twitter/follow/claudioh_dev?logo=twitter&style=for-the-badge" alt="cloud_henrique" /></a> </p>
 
 - 🔭 I’m currently working at [**Mereo**](https://mereo.com)
 
@@ -47,7 +47,7 @@
 <br>
 
 <p align="center">
-<a href="https://twitter.com/claudioh_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="claudioh_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/cloud_henrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloud_henrique" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/claudiohenrique-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudiohenrique-dev" height="30" width="40" /></a>
 <a href="https://t.me/claudiohenrique_dev" target="blank"><img align="center" src="https://telegram.org/img/t_logo.svg" alt="claudiohenrique_dev" height="30" width="40" /></a>
 </p>

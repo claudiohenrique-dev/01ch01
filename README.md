@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/cloud_henrique" target="blank"><img src="https://img.shields.io/twitter/follow/claudioh_dev?logo=twitter&style=for-the-badge" alt="cloud_henrique" /></a> </p>
 
-- 🔭 I’m currently working at [**Mereo**](https://mereo.com)
+- 🔭 I’m currently working at [**Guiavet**](https://guia.vet)
 
-- 🌱 I’m currently learning **React Native, Node.js and .NET**
+- 🌱 I’m currently learning **Next.js, React.js and React Native**
 
 - 👨‍💻 All of my projects are available on [**my GitHub profile**](https://github.com/claudiohenrique-dev)
 

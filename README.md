@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cláudio Henrique</h1>
 <h3 align="center">A passionate frontend and mobile developer from Rio Pomba, Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=claudiohenrique-dev&label=Profile%20views&color=0e75b6&style=flat" alt="claudiohenrique-dev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/cloud_henrique" target="blank"><img src="https://img.shields.io/twitter/follow/cloud_henrique?logo=twitter&style=for-the-badge" alt="cloud_henrique" /></a> </p>
 
 - 🔭 I’m currently working at [**Guiavet**](https://guia.vet)
 
@@ -16,8 +13,6 @@
 - 📫 You can mail me at **00claudio.henrique@gmail.com**
 
 - 📄 Know about my experiences on [**my personal website**](https://claudiohenrique.vercel.app)
-
-- ⚡ Fun fact: **When i was a child i tried to build a time machine 🤓**
 
 
 ---
@@ -76,23 +71,5 @@
   
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-</p>
-
-<br>
-  <h3 align="center">Connect with me:</h3>
-<br>
-
-<p align="center">
-  <a href="https://twitter.com/cloud_henrique" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloud_henrique" height="30" width="40" />
-  </a>
-  
-  <a href="https://linkedin.com/in/claudiohenrique-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudiohenrique-dev" height="30" width="40" />
-  </a>
-  
-  <a href="https://t.me/claudiohenrique_dev" target="blank">
-    <img align="center" src="https://telegram.org/img/t_logo.svg" alt="claudiohenrique_dev" height="30" width="40" />
   </a>
 </p>

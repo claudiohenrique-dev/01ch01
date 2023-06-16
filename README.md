@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and mobile developer from Rio Pomba, Brazil</h3>
 
 
-- 🔭 I’m currently working at [**Guiavet**](https://guia.vet)
+<!-- - 🔭 I’m currently working at [**Company**](https://google.com) -->
 
 - 🌱 I’m currently learning **Next.js, React.js and React Native**
 

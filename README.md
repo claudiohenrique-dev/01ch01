@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cláudio Henrique</h1>
-<h3 align="center">A passionate frontend and mobile developer from Rio Pomba, Brazil</h3>
+<h3 align="center">A passionate frontend and mobile developer from Juiz de Fora, Brazil</h3>
 
 
-<!-- - 🔭 I’m currently working at [**Company**](https://google.com) -->
+- 🔭 I’m currently working at [**Cia Cuidadores**](https://ciacuidadores.com.br)
 
-- 🌱 I’m currently learning **Next.js, React.js and React Native**
+- 🌱 I’m currently learning **Angular and Laravel**
 
 - 👨‍💻 All of my projects are available on [**my GitHub profile**](https://github.com/claudiohenrique-dev)
 
-- 💬 Ask me about **React, React, Native, Next and JavaScript**
+- 💬 Ask me about **Angular, TypeScript, React, React Native, Next and JavaScript**
 
 - 📫 You can mail me at **00claudio.henrique@gmail.com**
 
@@ -66,7 +66,7 @@
   </a>
   
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
   
   <a href="https://reactnative.dev/" target="_blank">
